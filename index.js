@@ -1,3 +1,3 @@
 window.onload = () => {
-    location.replace="en/home.html"
+    location.href="\en/home.html"
 }
