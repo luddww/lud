@@ -1,3 +1,3 @@
 window.onload = () => {
-    location.href="\en/home.html"
+    location.href="\lud/en/home.html"
 }
