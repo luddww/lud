@@ -1,3 +1,3 @@
 window.onload = () => {
-    location.href="\lud/en/home.html"
+    location.replace="https://luddww.github.io/lud/en/home.html"
 }
